@@ -25,7 +25,7 @@ Notes:
 1) Reservations also has a "created_by" column indicating the user who created them.
 
 Things to be implemented:
-- Haven’t included pagination yet
+- Pagination for index APIs
 - Move api tokens out of users model and have an API gateway manage it
 - Maintain a list of cuisines and let the Restaurant API choose only from it
 - Could have done access control via gems (like cancan, pundit)
