@@ -1,4 +1,4 @@
-<p> This app demostrates a basic restaurant management system </p>
+<p> This app demostrates a basic restaurant reservation management system </p>
 
 Steps to use this app:
 1) Clone the app
