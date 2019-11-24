@@ -13,6 +13,7 @@ Steps to use this app:
 
 By default - an admin user, a restaurant and a restaurant user are pre-populated using seeds. The API tokens for the two users are also created. They will be present in the users table.
 The Postman API collection has three folders - one per user. In each folder, you can click on Edit -> Authorization -> modify the API token you fetch from the users table (depending on the type of user).
+(Haven't implemented APIs to create restaurant users and map them to restaurants).
 
 Few scenarios:
 1) When an Admin user is creating reservation, they need to pass in both guest_id and restaurant_id
