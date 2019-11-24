@@ -1,6 +1,6 @@
 <p> This app demostrates a basic restaurant management system </p>
 
-<p> Steps to use this app <p>
+<p> Steps to use this app </p>
 1) Clone the app
 2) bundle install
 3) Change database.yml to modify username and password for the database
