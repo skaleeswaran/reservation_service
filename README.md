@@ -29,3 +29,5 @@ Things to be implemented:
 - Move api tokens out of users model and have an API gateway manage it
 - Maintain a list of cuisines and let the Restaurant API choose only from it
 - Could have done access control via gems (like cancan, pundit)
+
+
